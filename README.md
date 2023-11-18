@@ -10,11 +10,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-juniorod99@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:juniorod99@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/juniorod99?label=follow&style=social)](https://github.com/juniorod99)
 
-## 🚀 Tecnologias que uso no meu dia
+## 📚 Meus conhecimentos
 
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="c"/></code>
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="c"/></code>
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="c"/></code>
+<code><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="c"/></code>
+<code><img src="https://img.shields.io/badge/MySQL-01529E?style=for-the-badge&logo=mysql&logoColor=white" alt="c"/></code>
 
 ## 🤯 Tecnologias que estou estudando
 
