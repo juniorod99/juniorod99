@@ -24,4 +24,3 @@
 <code><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="c"/></code>
 
 [![card](https://github-readme-stats.vercel.app/api?username=juniorod99&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
