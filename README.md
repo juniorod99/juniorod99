@@ -1,4 +1,4 @@
-## 👋 Saudações, meu nome é <strong>Raimundo Junior</strong>, ou só Junior!
+## 👋 Saudações, meu nome é <strong>Raimundo Junior</strong>!
 
 > Curso Sistemas de Informação na Uni7 em Fortaleza/CE. Estou estudando C# e .NET e realizando projetos em HTML, CSS e JavaScript para fixar os conhecimentos. Meu sonho atual é conquistar minha primeira vaga como estagiário na área de programação 😃.
 
