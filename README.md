@@ -2,8 +2,6 @@
 
 > Curso Sistemas de Informação na Uni7 em Fortaleza/CE. Estou estudando C# e .NET e realizando projetos em HTML, CSS e JavaScript para fixar os conhecimentos. Meu sonho atual é conquistar minha primeira vaga como estagiário na área de programação 😃.
 
-🔭 Na faculdade, já desenvolvi um pequeno jogo utilizando JavaScript como projeto de Estágio I, uma plataforma para encontrar um amigo para jogar games online, utilizando PHP e SQL Server como projeto de Estágio II, e um aplicativo para dispositivos moveis de guia de turismo para a cidade de Fortaleza, utilizando React Native e Expo como projeto de Estágio III.
-
 💬 Você pode entrar em contato comigo através do links abaixo, responderei o mais breve possivel.
 
 [![Linkedin](https://img.shields.io/badge/-raimundojunior99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raimundojunior99/)](https://www.linkedin.com/in/raimundojunior99/)
