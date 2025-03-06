@@ -1,6 +1,6 @@
 ## 👋 Saudações, meu nome é <strong>Raimundo Junior</strong>!
 
-> Curso Sistemas de Informação na Uni7 em Fortaleza/CE. Estou estudando C# e .NET e realizando projetos em HTML, CSS e JavaScript para fixar os conhecimentos. Meu sonho atual é conquistar minha primeira vaga como estagiário na área de programação 😃.
+> Curso Sistemas de Informação na Uni7 em Fortaleza/CE. Estou estudando PHP e Laravel e realizando projetos em HTML, CSS e JavaScript para fixar os conhecimentos. Meu sonho atual é conquistar minha primeira vaga como estagiário na área de programação 😃.
 
 💬 Você pode entrar em contato comigo através do links abaixo, responderei o mais breve possivel.
 
